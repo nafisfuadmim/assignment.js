@@ -115,7 +115,8 @@ function budgetCalculator(watch, phone, laptop) {
       return result;
   
   }
-      console.log(megaFriend('nafis, rakib, tuhin, afridi, ashik, shakib, tahmid, tain ,ontor, mustafizur'));
+      
+  console.log(megaFriend('nafis, rakib, tuhin, afridi, ashik, shakib, tahmid, tain ,ontor, mustafizur'));
   
   
   
